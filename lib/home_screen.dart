@@ -104,7 +104,7 @@ var openAiKey=dotenv.env['OPENAIAPIKEY'];
                       shape: BoxShape.circle,
                       image: DecorationImage(
                         image: AssetImage(
-                          'assets/images/virtualAssistant.png',
+                          'assets/images/jarvis.jpg',
                         ),
                       ),
                     ),
